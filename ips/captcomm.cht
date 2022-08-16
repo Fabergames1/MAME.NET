@@ -1,0 +1,12 @@
+[captain discharge]
+fire=01F39E,00;01F39F,CC
+ice=01F39E,05;01F39F,00
+
+[fire robot]
+fire=01F3BE,02;01F3BF,C6
+ice=01F3BE,04;01F3BF,E0
+
+[GameInfo]
+Name=captcomm (CPS1)
+System=CPS1
+Text=Captain Commando (World 911202)

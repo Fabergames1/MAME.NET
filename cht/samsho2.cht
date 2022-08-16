@@ -1,0 +1,32 @@
+[Infinite Time]
+ON=AC6,98
+
+[Select Character PL1]
+Haohmaru=D0B,00
+Nakoruru=D0B,01
+Hanzo=D0B,02
+Galford=D0B,03
+Wan-Fu=D0B,04
+Ukyo=D0B,05
+Kyoshiro=D0B,06
+Gen-An=D0B,07
+Earthquake=D0B,08
+Jubei=D0B,09
+Charlotte=D0B,0B
+Genjuro=D0B,0C
+Cham Cham=D0B,0D
+Sieger=D0B,0E
+Nicotine=D0B,0F
+Mizuki=D0B,10
+Kuroko=D0B,11
+
+[Goto Boss Fight Screen Now!]
+ON=AAE,0C
+
+[Drain All Energy Now! PL2]
+ON=A4C$BB,00
+
+[GameInfo]
+Name=samsho2
+System=Neo Geo
+Text=Samurai Shodown II / Shin Samurai Spirits - Haohmaru jigokuhen

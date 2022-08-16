@@ -1,0 +1,56 @@
+[Infinite Time]
+ON=8ABE,99
+
+[P1 Invincible]
+ON=857D,01
+
+[P1 win]
+round=864E,02
+rounds=864E,00
+
+[BackGround Select]
+Ryu=DD5F,00
+E.Honda=DD5F,01
+Blanka=DD5F,02
+Guile=DD5F,03
+Ken=DD5F,04
+Chun-Li=DD5F,05
+Zangief=DD5F,06
+Dhalsim=DD5F,07
+M.Bison=DD5F,08
+Sagat=DD5F,09
+Balrog=DD5F,0A
+Vega=DD5F,0B
+
+[Select Character PL1]
+Ryu=864F,00
+E.Honda=864F,01
+Blanka=864F,02
+Guile=864F,03
+Ken=864F,04
+Chun-Li=864F,05
+Zangief=864F,06
+Dhalsim=864F,07
+M.Bison=864F,08
+Sagat=864F,09
+Balrog=864F,0A
+Vega=864F,0B
+
+[Stage Select]
+Stage 1=89C1,00
+Stage 2=89C1,01
+Stage 3=89C1,02
+Stage 4=89C1,03
+Stage 5=89C1,04
+Stage 6=89C1,05
+Stage 7=89C1,06
+Stage 8=89C1,07
+Stage 9=89C1,08
+Stage 10=89C1,09
+Stage 11=89C1,0A
+Stage 12=89C1,0B
+
+[GameInfo]
+Name=sf2ce (CPS1)
+System=CPS1
+Text=Street Fighter II': Champion Edition (World 920513)

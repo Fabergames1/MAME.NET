@@ -1,0 +1,23 @@
+[all enemies die]
+ON=CADE,FF;CBBE,FF;CC9E,FF;CD7E,FF;CE5E,FF;CF3E,FF;D01E,FF;D0FE,FF;D1DE,FF
+
+[Stage Select]
+Stage 1=7F88,00
+Stage 2=7F88,01
+Bonus 1=7F88,02
+Stage 3=7F88,03
+Boss 4=7F88,04
+Stage 4=7F88,05
+Stage 5-1=7F88,06
+Stage 5-2=7F88,07
+Stage 6=7F88,08
+Bonus 2=7F88,09
+Stage 7=7F88,0A
+Stage 8=7F88,0B
+Stage 9=7F88,0C
+Final Battle=7F88,0D
+
+[GameInfo]
+Name=wof (CPS1)
+System=CPS1
+Text=Warriors of Fate (World 921002)

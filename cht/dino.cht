@@ -1,0 +1,13 @@
+[enemy 1 disappear]
+ON=E7BC$00,00;EB96$00,00
+
+[all enemies disappear]
+ON=C8F4,00;C9D4,00;CAB4,00;CB94,00;CC74,00;CD54,00;CE34,00;CF14,00;CFF4,00;D0D4,00;D1B4,00;D294,00;D374,00;D454,00;D534,00;D614,00;D6F4,00;D7D4,00;D8B4,00;D994,00;DA74,00;DB54,00;DC34,00;DD14,00
+
+[go through]
+ON=84D0,07
+
+[GameInfo]
+Name=dino (CPS1)
+System=CPS1
+Text=Cadillacs and Dinosaurs (World 930201)
